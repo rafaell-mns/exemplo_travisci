@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/rafaell-mns/exemplo_travisci.svg?token=oy65sxnUVt4Kg2hJpevw&branch=main)](https://app.travis-ci.com/rafaell-mns/exemplo_travisci)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
